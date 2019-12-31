@@ -1,40 +1,97 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
 <style>
-h1 {
-    color:red;
-    font-family:verdana;
-    font-size:200%;
+body, html {
+  height: 100%;
+  margin: 0;
 }
-b  {
-    color:green;
-    font-family:arial;
-    font-size:100%
+
+.bgimg {
+  background-image: url('spike.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+    color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
 }
-p  {
-    color:brown;
-    font-family:arial;
-    font-size:110%
+
+.topleft {
+  position: absolute;
+  top: 0;
+    left: 16px;
+    font-size: 30px;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+hr {
+  margin: auto;
+  width: 40%;
 }
 </style>
+<title>Primelessons.org</title>
 </head>
 <body>
-<a href="http://www.ev3lessons.com/">
-<img src="http://archive.ev3lessons.com/web/EV3lessons-EV3Trainer-v1/advanced/back_arrow.jpg" alt="some_text" > to EV3Lessons.com
-</a>
-<h1>SPIKE PRIME Lessons</h1>
-<h2>COMING SOON!</h2>
-<b><p> Beginner Lessons:</p></b>
-<img src="http://archive.ev3lessons.com/web/EV3lessons-EV3Trainer-v1/PE_MABEZAT_A_O_img1.gif" alt="abc" width="30" height="30"> <a href="#">Beginner Lessons</a>
-<b><p> Intermediate Lessons:</p></b>
-<img src="http://archive.ev3lessons.com/web/EV3lessons-EV3Trainer-v1/PE_MABEZAT_A_O_img1.gif" alt="abc" width="30" height="30"> <a href="#">Intermediate Lessons</a>
-<b><p> Advanced Lessons:
-<br>
-<img src="http://archive.ev3lessons.com/web/EV3lessons-EV3Trainer-v1/PE_MABEZAT_A_O_img1.gif" alt="abc" width="30" height="30"><a href="#">Advanced Lessons</a>
-<br>
-<br>
-If you want to contact us, click <a href="mailto:team@ev3lessons.com">here</a>.
-<br>
+
+<div class="bgimg">
+  <div class="topleft">
+    <p><b>SPIKE PRIME Lessons</b></p>
+  </div>
+  <div class="middle">
+    <h1>COMING SOON</h1>
+    <hr>
+    <p id="demo" style="font-size:30px"></p>
+  </div>
+  <div class="bottomleft">
+    <p>Brought to you by <a href="http://www.ev3lessons.com/">EV3Lessons.com</a></p>
+  </div>
+</div>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 9, 2020 12:00:00").getTime();
+
+// Update the count down every 1 second
+var countdownfunction = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+  
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+  
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+  
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(countdownfunction);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
 </body>
 </html>
