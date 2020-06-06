@@ -1,4 +1,16 @@
-  //langs=['en-us:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt-br:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','de:Germany:Deutsche']
+  // Language detection system for EV3Lessons.com - v3.5
+
+// Fully compatible with v2.0
+// First looks if language cookie is avaliable
+// Then looks for browser set language
+// Gets language from URI component ?lang=<2 (4 for v3.0 compat) letter lang code>
+// v2.0 compat --> <URL>#<2/4 letter lang code>
+// Saves determinied language to cookie
+// Determined langauge is in global variable "language"
+
+// Update: Cookie has been replaced with localStorage due to more capabilities.
+
+//langs=['en-us:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt-br:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','de:Germany:Deutsche']
 
   //  langs=['en-us:United States:English (USA)']
   //langs=['en:United States:English','nl:Netherlands:Nederlands','es:Spain:Español','ru:Russia:русский','pt:Brazil:Portugues']
