@@ -6,10 +6,12 @@
   </select>
   -->
   <i style="color:white; position: relative; margin:auto;padding: 10px;top:8px;">SPIKE PRIME Lessons</i>
-  <script>
+ 
+ <div id="flags" style="text-align: right; position: relative; margin:auto;padding: 10px;top:-24px;"></div>
+ 
+ <script>
 
-    document.getElementById('lang').value = language
-
+  
     	q = window.location.search
 	function getParameterByName(name, url) {
 	    if (!url) url = window.location.href;
@@ -20,6 +22,13 @@
 	    if (!results[2]) return '';
 	    return decodeURIComponent(results[2].replace(/\+/g, " "));
 	}
+
+	language = getParameterByName("lang")
+	if (language==null) {
+		language = "en"
+	}
+
+
     function changelang(val) {
 	if (window.location.search == "") {
 	    window.location.search = "?lang="+val
@@ -27,7 +36,25 @@
 	    window.location.search = window.location.search.split("&lang=")[0]+"&lang="+val+"&"+window.location.search.split(language+"&")[1]
 	}
     }
+
+
       </script>
       
-  
+	  <script>
+		var page = window.location.href.split("?")[0].split("#")[0] + '?lang=';
+		var i;
+		for (i = 0; i < langs.length; i++) {
+	window[langs[i].split(':')[0].split('-')[0]] = page + langs[i].split(':')[0];
+		}
+		var i;
+		for (i = 0; i < langs.length; i++) {
+	 document.getElementById("flags").innerHTML = document.getElementById("flags").innerHTML + '\
+		<a class="no-print no-mobile" data-ajax="false" href="'+ window[langs[i].split(":")[0].split("-")[0]] +'" onclick="createCookie(\''+langs[i].split(":")[0]+'\');window.location.href="'+window[langs[i].split(":")[0].split("-")[0]]+'";setTimeout(function(){location.reload(true);},100)" style=" text-decoration: none">\
+		<img style="padding-top: 0" src="images/icons/countries/small/'+langs[i].split(":")[1]+'.png" alt="'+langs[i].split(":")[2]+'" title="'+langs[i].split(":")[2]+'" width="26" height="26" border="0">\
+		</a>\
+		'
+		}
+		</script>
+
+
 </div>

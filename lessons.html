@@ -20,6 +20,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
+<script src="language-detector.js"></script>
+
+
+
 <title>SPIKE Prime Lessons</title>
 
 </head>
@@ -33,338 +37,59 @@
   <div style="max-width: 1024px;margin:0 auto;">
     <script>
     $(function(){
-      $("#header").load("header.html");
+      $("#header").load("translations/"+language+"/header.html");
     });
     </script>
      <div id="header"></div><br>
-  <section style="padding: 5px 5px 5px 15px;">
 
-  <h2>Programming Lessons:</h2>
-</section><br><section> <div class="text-body" style="font-size: 20px;">
 
-<!--start accordian-->
+     <script>
+      function includeHTML() {
+        var z, i, elmnt, file, xhttp;
+        /*loop through a collection of all HTML elements:*/
+        z = document.getElementsByTagName("*");
+        for (i = 0; i < z.length; i++) {
+          elmnt = z[i];
+          /*search for elements with a certain atrribute:*/
+          file = elmnt.getAttribute("w3-include-html");
+          if (file) {
+            /*make an HTTP request using the attribute value as the file name:*/
+            xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+              if (this.readyState == 4) {
+                if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                /*remove the attribute, and call this function once more:*/
+                elmnt.removeAttribute("w3-include-html");
+                includeHTML();
+              }
+            }      
+            xhttp.open("GET", file, true);
+            xhttp.send();
+            /*exit the function:*/
+            return;
+          }
+        }
+      };
+      </script>
 
-  <p>
-  How does SPIKE Prime compare with EV3? Read this <a target="_blank" href="lessons/PlatformComparison.pdf">Comparison Document</a>.<br>
-  </p>
+      
 
-<h3>Unit 1: Getting Started</h3>
+     <script>
+      $(function(){
+        $("#content").load("translations/"+language+"/lessonsContent.html");
+      });
+      </script>
+       <div id="content"></div><br>
 
-<button class="accordion">How to Use these Lessons</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/HowtoUse.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/HowtoUse.pdf">PDF</a><br/>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/HowtoUsenl.pptx">PPTX (Dutch)</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/HowtoUsenl.pdf">PDF (Dutch)</a>
-  </p>
-</div>
-
-<button class="accordion">Building a Robot</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/BuildingARobot.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/BuildingARobot.pdf">PDF</a><br>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/BuildingARobotnl.pptx">PPTX (Dutch)</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/BuildingARobotnl.pdf">PDF (Dutch)</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/DroidBotIVBuildInstructions.pdf">Droid Bot IV</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ADBModification.pdf">Modifications to ADB</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/DroidBotEBuildInstructions.pdf">Droid Bot E</a><br>
-      <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/DroidBotEAttachment.pdf">Droid Bot E Attachment</a><br>
-  </p>
-</div>
-
-<button class="accordion">Easier Building with SPIKE Prime</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/NewElements.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/NewElements.pdf">PDF</a><br>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/NewElements.pptx">PPTX (Dutch)</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/NewElements.pdf">PDF (Dutch)</a><br>
-
-  </p>
-</div>
-
-<button class="accordion">Installing Software and Firmware</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/SoftwareandFirmware.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/SoftwareandFirmware.pdf">PDF</a>
-  </p>
-</div>
+    
 
 
 
-<h3>Unit 2: Navigating the Software</h3>
-
-<button class="accordion">Introduction to Hub and Software</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/IntroductiontoHubandSoftware.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/IntroductiontoHubandSoftware.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Managing Projects</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/ManagingProjects.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ManagingProjects.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Viewing Sensor Values</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/ViewingSensorValues.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ViewingSensorValues.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 3: Moving and Turning</h3>
-
-<button class="accordion">Configuring Robot Movement</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/ConfiguringRobotMovement.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ConfiguringRobotMovement.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Moving Straight</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/MovingStraight.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/MovingStraight.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Turning with Gyro</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/GyroTurning.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/GyroTurning.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">More Accurate Turns</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/AccurateTurning.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/AccurateTurning.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 4:Good Programming Practices</h3>
-
-
-<button class="accordion">Pseudocode</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Pseudocode.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Pseudocode.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Commenting Code</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Comments.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Comments.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 5: Using Sensors</h3>
-
-<button class="accordion">Introduction to Force Sensor</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/ForceSensor.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ForceSensor.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Introduction to Color Sensor</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/ColorSensor.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ColorSensor.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Introduction to Distance Sensor</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/DistanceSensor.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/DistanceSensor.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 6: Better Programming Techniques</h3>
-
-<button class="accordion">Using Repeat Blocks</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/RepeatBlocks.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/RepeatBlocks.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Using Sound Blocks</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/SoundBlocks.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/SoundBlocks.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Using Light Blocks</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/LightBlocks.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/LightBlocks.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Using If-Then Blocks</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/IfThenBlocks.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/IfThenBlocks.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 7: Putting it all Together</h3>
-
-<button class="accordion">Moving an Object with Stall Detection</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/MovingObjectsStall.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/MovingObjectsStall.pdf">PDF</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/SampleAttachment.pdf">Sample Attachment</a>
-  </p>
-</div>
-
-<button class="accordion">Basic Line Follower</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/LineFollower.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/LineFollower.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Challenges</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Challenges.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Challenges.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 8: Advanced Programming Techniques</h3>
-<button class="accordion">Introduction to Events - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/EventsIntro.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/EventsIntro.pdf">PDF</a>
-  </p>
-</div>
-<button class="accordion">Event Synchronization - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/EventsSync.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/EventsSync.pdf">PDF</a>
-  </p>
-</div>
-<button class="accordion">Variables - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Variables.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Variables.pdf">PDF</a>
-  </p>
-</div>
-<button class="accordion">My Blocks - <b>New</b> </button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/MyBlocks.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/MyBlocks.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 9: Advanced Sensor Use</h3>
-<button class="accordion">Squaring on a Line - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/SquaringonLine.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/SquaringonLine.pdf">PDF</a>
-  </p>
-</div>
-<button class="accordion">Proportional Line Follower - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/ProportionalLineFollower.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/ProportionalLineFollower.pdf">PDF</a>
-  </p>
-</div>
-<button class="accordion">Gyro Move Straight - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/GyroMoveStraight.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/GyroMoveStraight.pdf">PDF</a>
-  </p>
-</div>
-<button class="accordion">PID Line Follower - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/PIDLineFollower.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/PIDLineFollower.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 10: Techniques for FIRST LEGO League</h3>
-
-<button class="accordion">Acceleration - <b>New</b></button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Accelerate.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Accelerate.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Debugging Techniques</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Debugging.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Debugging.pdf">PDF</a>
-  </p>
-</div>
-
-<button class="accordion">Reliability Techniques</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/Reliability.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/Reliability.pdf">PDF</a>
-  </p>
-</div>
-
-<h3>Unit 11: MicroPython</h3>
-
-<button class="accordion">Introduction to MicroPython</button>
-<div class="panel">
-  <p>
-    <img width="32" height="32" src="images/pptx.png"> <a href="lessons/MicroPythonIntro.pptx">PPTX</a><br>
-    <img width="32" height="32" src="images/pdf.svg"> <a href="lessons/MicroPythonIntro.pdf">PDF</a>
-  </p>
-</div>
-
-<!--end-->
-</div>
-
-</section>
 <br>
     <script>
     $(function(){
-      $("#footer").load("footer.html");
+      $("#footer").load("translations/"+language+"/footer.html");
     });
     </script>
      <div id="footer"></div>

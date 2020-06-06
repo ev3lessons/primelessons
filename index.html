@@ -19,7 +19,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
+<script src="language-detector.js"></script>
+
+
 <title>Home</title>
+
+
 </head>
 <body>
    <script>
@@ -31,7 +36,7 @@
   <div style="max-width: 1024px;margin:0 auto;">
     <script>
     $(function(){
-      $("#header").load("header.html");
+      $("#header").load("translations/"+language+"/header.html");
     });
     </script>
      <div id="header"></div>
@@ -49,30 +54,24 @@
 </div>
 
 <!--
-</section>--><br><section>
+</section>--><br>
 
-<div class="text-body" style="font-size: 20px;">
-30 lessons are already available for download. More added each week.
 
-</div>
+<div style="max-width: 1024px;margin:0 auto;">
+  <script>
+  $(function(){
+    $("#body").load("translations/"+language+"/indexContent.html");
+  });
+  </script>
+   <div id="body"></div>
 
-<script src="js/slider.js"></script>
-</section>
-
-<br><section>
-
-<div class="text-body" style="font-size: 20px;">
-Pardon the dust! This is a temporary website as we build a new one.
-
-</div>
 
 <script src="js/slider.js"></script>
-</section>
 
 <br>
     <script>
     $(function(){
-      $("#footer").load("footer.html");
+      $("#footer").load("translations/"+language+"/footer.html");
     });
     </script>
      <div id="footer"></div>
