@@ -1,4 +1,4 @@
-  // Language detection system for EV3Lessons.com - v3.5
+// Language detection system for EV3Lessons.com - v3.5
 
 // Fully compatible with v2.0
 // First looks if language cookie is avaliable
@@ -14,7 +14,7 @@
 
   //  langs=['en-us:United States:English (USA)']
   //langs=['en:United States:English','nl:Netherlands:Nederlands','es:Spain:Español','ru:Russia:русский','pt:Brazil:Portugues']
-  langs=['en:United States:English','nl:Netherlands:Nederlands']
+  langs=['en:United States:English','nl:Netherlands:Nederlands','pt:Brazil:Portugues']
 
  
 
