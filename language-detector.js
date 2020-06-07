@@ -14,7 +14,7 @@
 
   //  langs=['en-us:United States:English (USA)']
   //langs=['en:United States:English','nl:Netherlands:Nederlands','es:Spain:Español','ru:Russia:русский','pt:Brazil:Portugues']
-  langs=['en:United States:English','nl:Netherlands:Nederlands','pt:Brazil:Portugues']
+  langs=['en:United States:English','nl:Netherlands:Nederlands','pt:Brazil:Portugues','ru:Russia:русский']
 
  
 
