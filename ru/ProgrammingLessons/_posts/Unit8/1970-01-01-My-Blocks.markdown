@@ -1,12 +1,12 @@
 ---
-title: "My Blocks"
+title: "МОИ БЛОКИ"
 searchterms: "toggle 8Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/MyBlocks.pptx">PPTX</a>,
- <a href="ProgrammingLessons/MyBlocks.pdf">PDF</a>
+ <a href="ProgrammingLessons/MyBlocksRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/MyBlocksRU.pdf">PDF</a>
  </li>
  </ul>

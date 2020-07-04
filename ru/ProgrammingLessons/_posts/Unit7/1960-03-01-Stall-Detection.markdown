@@ -1,12 +1,12 @@
 ---
-title: "Moving Object with Stall Detection"
+title: "Перемещение объектов и обнаружение пробуксовки"
 searchterms: "toggle 7Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/MovingObjectsStall.pptx">PPTX</a>,
- <a href="ProgrammingLessons/MovingObjectsStall.pdf">PDF</a>
+ <a href="ProgrammingLessons/MovingObjectsStallRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/MovingObjectsStallRU.pdf">PDF</a>
  </li>
  </ul>

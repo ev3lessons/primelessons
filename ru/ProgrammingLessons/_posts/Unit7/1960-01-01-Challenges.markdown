@@ -1,12 +1,12 @@
 ---
-title: "Challenges"
+title: "Финальные задачи"
 searchterms: "toggle 7Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Challenges.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Challenges.pdf">PDF</a>
+ <a href="ProgrammingLessons/ChallengesRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/ChallengesRU.pdf">PDF</a>
  </li>
  </ul>

@@ -1,12 +1,12 @@
 ---
-title: "Event Synchronization"
+title: "СИНХРОНИЗАЦИЯ СОБЫТИЙ"
 searchterms: "toggle 8Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/EventsSync.pptx">PPTX</a>,
- <a href="ProgrammingLessons/EventsSync.pdf">PDF</a>
+ <a href="ProgrammingLessons/EventsSyncRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/EventsSyncRU.pdf">PDF</a>
  </li>
  </ul>

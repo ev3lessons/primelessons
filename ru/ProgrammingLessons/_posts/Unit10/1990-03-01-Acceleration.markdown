@@ -1,12 +1,12 @@
 ---
-title: "Acceleration"
+title: "УСКОРЕНИЕ"
 searchterms: "toggle 10Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Accelerate.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Accelerate.pdf">PDF</a>
+ <a href="ProgrammingLessons/AccelerateRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/AccelerateRU.pdf">PDF</a>
  </li>
  </ul>

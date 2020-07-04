@@ -1,12 +1,12 @@
 ---
-title: "Introduction to Events"
+title: "ВВЕДЕНИЕ В СОБЫТИЯ"
 searchterms: "toggle 8Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/EventsIntro.pptx">PPTX</a>,
- <a href="ProgrammingLessons/EventsIntro.pdf">PDF</a>
+ <a href="ProgrammingLessons/EventsIntroRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/EventsIntroRU.pdf">PDF</a>
  </li>
  </ul>
