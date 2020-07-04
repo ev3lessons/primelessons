@@ -1,0 +1,128 @@
+---
+layout: default
+title: Error the page doesn't exist
+keywords: gradient, html, css, landing page, jekyll, ruby, web marketing, advertising
+---
+{% include JB/setup %}
+
+
+<!--Redirect old language style links (to English only) -->
+
+<script>
+
+  langs=['{{ site.all_langs | join: "', '" }}']
+
+
+function get_browser_version(){
+  var N=navigator.appName, ua=navigator.userAgent, tem;
+  var M=ua.match(/(opera|chrome|safari|firefox|msie)\/?\s*(\.?\d+(\.\d+)*)/i);
+  if(M && (tem= ua.match(/version\/([\.\d]+)/i))!= null) M[2]= tem[1];
+  M=M? [M[1], M[2]]: [N, navigator.appVersion, '-?'];
+  return M[1];
+}
+
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+var browser = navigator.appName;
+var version = get_browser_version();
+
+if (browser=="Microsoft Internet Explorer") {
+    if (version<="8.0")
+        document.location.href="http://classic.ev3lessons.com/"
+}
+
+
+
+if (getParameterByName('lang') != null) {
+    var language = getParameterByName('lang');
+} else if (localStorage.lang) {
+    var language = localStorage.lang.split('ev3cookie');
+} else if (window.location.hash) {
+    var language = window.location.hash.substring(1);
+} else {
+    var language = navigator.language.split('-')[0];
+}
+
+localStorage.lang = language;
+
+
+if (language == "en-us") {
+    language = "en";
+} else if (language == "pt-br") {
+    language = "pt";
+} else if (language == "br") {
+    language = "pt";
+}
+
+
+
+if ((String(langs).indexOf(language+":")) == -1) {
+    language = "en";
+}
+
+
+
+  page = window.location.href.split('/')[3].split('?')[0].split('#')[0];
+  if (page == "lessons.html") {
+    window.location.href = "/"+language+"/Lessons.html"
+  } else if (page == "robots.html") {
+    window.location.href = "/"+language+"/RobotDesigns.html"
+  } else if (page == "aboutus.html") {
+    window.location.href = "/"+language+"/AboutUs.html"
+  } else if (page == "tablet.html") {
+    window.location.href = "/"+language+"/TabletLessons.html"
+  } else if (page == "HourOfEV3.html") {
+    window.location.href = "/"+language+"/TabletLessons.html"
+  } else if (page == "translations") {
+    tmplang = window.location.href.split('/')[4].split('-')[0]	 
+    file = window.location.href.split('/')[5] + "/" + window.location.href.split('/')[6]	 
+   window.location.href = "/"+tmplang+"/ProgrammingLessons/"+file
+  } else if (page == "coachcorner" || page == "coachcorner.html") {
+   window.location.href = "http://www.flltutorials.com/CoachCorner.html"
+  }
+
+</script>
+
+
+
+
+<div class="site-wrapper gradient">
+
+
+      <div class="site-wrapper-inner">
+
+
+        <div class="cover-container">
+
+
+<br>
+          <div class="inner cover">
+			<div class="row vertical-align">
+			  <div class="col-md-6">
+	            <h1 style="padding-left: 10px;" class="cover-heading jumbotitle">404 Error - This page doesn't exist!</h1>
+	            <p style="padding-left: 10px;" class="lead jumbotext">This page has not been found. It might have moved during recent updates, but don't worry as the content is still avaliable. Just click the link below.</p>
+	            <p class="lead jumbotext">
+	              <a href="{{ BASE_PATH }}/" class="btn btn-lg btn-default">Home</a>
+	            </p>
+			  </div>
+			  <div class="col-md-6" style="align-content: center;">
+			  	<img src="{{ BASE_PATH }}/assets/images/404.png" style="margin: auto;width:100%;" class="img-responsive" alt="Error 404">
+			  </div>
+			</div>
+
+          </div>
+
+
+        </div>
+
+      </div>
+
+</div>
