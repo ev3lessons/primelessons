@@ -64,6 +64,7 @@ if ((String(langs).indexOf(language+":")) == -1) {
     language = "en";
 }
 
+language = language.split(",")[1]
 
 if (getParameterByName('target')) {
     var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language + '/' + getParameterByName('target');
