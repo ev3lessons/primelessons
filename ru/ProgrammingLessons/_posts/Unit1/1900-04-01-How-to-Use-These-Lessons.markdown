@@ -1,12 +1,12 @@
 ---
-title: "How to Use these Lessons"
+title: "Как использовать уроки"
 searchterms: "toggle 1Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/HowtoUse.pptx">PPTX</a>,
- <a href="ProgrammingLessons/HowtoUse.pdf">PDF</a>
+ <a href="ProgrammingLessons/HowtoUseRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/HowtoUseRU.pdf">PDF</a>
  </li>
  </ul>

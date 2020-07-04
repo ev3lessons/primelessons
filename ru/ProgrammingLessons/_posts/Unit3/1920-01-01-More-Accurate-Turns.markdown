@@ -1,12 +1,12 @@
 ---
-title: "More Accurate Turns"
+title: "ТОЧНЫЕ ПОВОРОТЫ"
 searchterms: "toggle 3Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/AccurateTurning.pptx">PPTX</a>,
- <a href="ProgrammingLessons/AccurateTurning.pdf">PDF</a>
+ <a href="ProgrammingLessons/AccurateTurningRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/AccurateTurningRU.pdf">PDF</a>
  </li>
  </ul>

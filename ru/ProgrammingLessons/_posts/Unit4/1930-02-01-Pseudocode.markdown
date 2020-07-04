@@ -1,12 +1,12 @@
 ---
-title: "Pseudocode"
+title: "Псевдокод"
 searchterms: "toggle 4Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Pseudocode.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Pseudocode.pdf">PDF</a>
+ <a href="ProgrammingLessons/PseudocodeRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/PseudocodeRU.pdf">PDF</a>
  </li>
  </ul>

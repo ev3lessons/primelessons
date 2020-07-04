@@ -1,12 +1,12 @@
 ---
-title: "Introduction to Color Sensor"
+title: "ДАТЧИК ЦВЕТА"
 searchterms: "toggle 5Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/ColorSensor.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ColorSensor.pdf">PDF</a>
+ <a href="ProgrammingLessons/ColorSensorRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/ColorSensorRU.pdf">PDF</a>
  </li>
  </ul>

@@ -1,12 +1,12 @@
 ---
-title: "Installing Software and Firmware"
+title: "Установка ПО и прошивка"
 searchterms: "toggle 1Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/SoftwareandFirmware.pptx">PPTX</a>,
- <a href="ProgrammingLessons/SoftwareandFirmware.pdf">PDF</a>
+ <a href="ProgrammingLessons/SoftwareandFirmwareRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SoftwareandFirmwareRU.pdf">PDF</a>
  </li>
  </ul>

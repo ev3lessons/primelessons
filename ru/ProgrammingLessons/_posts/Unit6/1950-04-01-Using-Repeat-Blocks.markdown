@@ -1,12 +1,12 @@
 ---
-title: "Using Repeat Blocks"
+title: "БЛОКИ ЦИКЛОВ"
 searchterms: "toggle 6Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/RepeatBlocks.pptx">PPTX</a>,
- <a href="ProgrammingLessons/RepeatBlocks.pdf">PDF</a>
+ <a href="ProgrammingLessons/RepeatBlocksRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/RepeatBlocksRU.pdf">PDF</a>
  </li>
  </ul>

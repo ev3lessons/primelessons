@@ -1,12 +1,12 @@
 ---
-title: "Using Light Blocks"
+title: "БЛОКИ ПОДСВЕТКИ"
 searchterms: "toggle 6Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/LightBlocks.pptx">PPTX</a>,
- <a href="ProgrammingLessons/LightBlocks.pdf">PDF</a>
+ <a href="ProgrammingLessons/LightBlocksRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/LightBlocksRU.pdf">PDF</a>
  </li>
  </ul>

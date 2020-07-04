@@ -1,12 +1,12 @@
 ---
-title: "Turning with Gyro"
+title: "Повороты с гироскопом"
 searchterms: "toggle 3Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/GyroTurning.pptx">PPTX</a>,
- <a href="ProgrammingLessons/GyroTurning.pdf">PDF</a>
+ <a href="ProgrammingLessons/GyroTurningRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/GyroTurningRU.pdf">PDF</a>
  </li>
  </ul>

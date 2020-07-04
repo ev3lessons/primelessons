@@ -1,12 +1,12 @@
 ---
-title: "Moving Straight"
+title: "ДВИЖЕНИЕ ПРЯМО"
 searchterms: "toggle 3Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/MovingStraight.pptx">PPTX</a>,
- <a href="ProgrammingLessons/MovingStraight.pdf">PDF</a>
+ <a href="ProgrammingLessons/MovingStraightRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/MovingStraightRU.pdf">PDF</a>
  </li>
  </ul>

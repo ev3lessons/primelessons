@@ -1,12 +1,12 @@
 ---
-title: "Configuring Robot Movement"
+title: "Настройка Движения робота"
 searchterms: "toggle 3Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/ConfiguringRobotMovement.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ConfiguringRobotMovement.pdf">PDF</a>
+ <a href="ProgrammingLessons/ConfiguringRobotMovementRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/ConfiguringRobotMovementRU.pdf">PDF</a>
  </li>
  </ul>
