@@ -1,6 +1,6 @@
 ---
 title: "Building a Robot"
-searchterms: "toggle"
+searchterms: "toggle 1Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

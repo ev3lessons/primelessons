@@ -38,7 +38,109 @@ title: Programming Lessons
                   <!-- Nav tabs -->
                   
 
-                  {% include LessonTabs.html %}
+
+                  <h3>Unit 1:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "1Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 2:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "2Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 3:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "3Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 4:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "4Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 5:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "5Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 6:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "6Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+              
+                  <h3>Unit 7:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "7Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 8:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "8Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 9:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "8Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 10:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "10Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+                  <h3>Unit 11:</h3>
+                  {% for post in site.categories.ProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "11Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+              
+
+
                 </div>
                 <div class="col-md-1"></div>
 
