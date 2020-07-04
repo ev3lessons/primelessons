@@ -1,6 +1,6 @@
 ---
 title: "MicroPython"
-searchterms: "toggle 11Unit"
+searchterms: "toggle XIUnit"
 lang: "en"
 tag: ProgrammingLesson
 ---

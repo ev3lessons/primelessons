@@ -1,6 +1,6 @@
 ---
 title: "MICROPYTHON НА SPIKE PRIME"
-searchterms: "toggle 11Unit"
+searchterms: "toggle XIUnit"
 lang: "ru"
 tag: ProgrammingLesson
 ---
