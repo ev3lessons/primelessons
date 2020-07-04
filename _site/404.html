@@ -127,7 +127,7 @@
           <a class="nav-link" href="/en/index.html" aria-haspopup="true" aria-expanded="false">Home</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link" href="/en/lessons.html" aria-haspopup="true" aria-expanded="false">Lessons</a>
+          <a class="nav-link" href="/en/Lessons.html" aria-haspopup="true" aria-expanded="false">Lessons</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/en/RobotDesigns.html" aria-haspopup="true" aria-expanded="false">Robot Designs</a>
@@ -219,20 +219,12 @@ if ((String(langs).indexOf(language+":")) == -1) {
   page = window.location.href.split('/')[3].split('?')[0].split('#')[0];
   if (page == "lessons.html") {
     window.location.href = "/"+language+"/Lessons.html"
-  } else if (page == "robots.html") {
-    window.location.href = "/"+language+"/RobotDesigns.html"
-  } else if (page == "aboutus.html") {
+  } else if (page == "about.html") {
     window.location.href = "/"+language+"/AboutUs.html"
-  } else if (page == "tablet.html") {
-    window.location.href = "/"+language+"/TabletLessons.html"
-  } else if (page == "HourOfEV3.html") {
-    window.location.href = "/"+language+"/TabletLessons.html"
   } else if (page == "translations") {
     tmplang = window.location.href.split('/')[4].split('-')[0]	 
     file = window.location.href.split('/')[5] + "/" + window.location.href.split('/')[6]	 
-   window.location.href = "/"+tmplang+"/ProgrammingLessons/"+file
-  } else if (page == "coachcorner" || page == "coachcorner.html") {
-   window.location.href = "http://www.flltutorials.com/CoachCorner.html"
+    window.location.href = "/"+tmplang+"/ProgrammingLessons/"+file
   }
 
 </script>
