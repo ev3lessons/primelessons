@@ -1,12 +1,12 @@
 ---
-title: "Debugging"
+title: "МЕТОДЫ ОТЛАДКИ"
 searchterms: "toggle 10Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Debugging.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Debugging.pdf">PDF</a>
+ <a href="ProgrammingLessons/DebuggingRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/DebuggingRU.pdf">PDF</a>
  </li>
  </ul>

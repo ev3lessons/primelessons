@@ -1,12 +1,12 @@
 ---
-title: "Gyro Move Straight"
+title: "ДВИЖЕНИЕ ПО прямой С ГИРОСКОПОМ"
 searchterms: "toggle 9Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/GyroMoveStraight.pptx">PPTX</a>,
- <a href="ProgrammingLessons/GyroMoveStraight.pdf">PDF</a>
+ <a href="ProgrammingLessons/GyroMoveStraightRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/GyroMoveStraightRU.pdf">PDF</a>
  </li>
  </ul>

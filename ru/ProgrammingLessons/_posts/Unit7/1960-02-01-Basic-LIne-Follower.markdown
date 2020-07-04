@@ -1,12 +1,12 @@
 ---
-title: "Basic Line Follower"
+title: "Движение по линии"
 searchterms: "toggle 7Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/LineFollower.pptx">PPTX</a>,
- <a href="ProgrammingLessons/LineFollower.pdf">PDF</a>
+ <a href="ProgrammingLessons/LineFollowerRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/LineFollowerRU.pdf">PDF</a>
  </li>
  </ul>

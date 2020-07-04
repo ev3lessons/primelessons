@@ -1,12 +1,12 @@
 ---
-title: "PID Line Follower"
+title: "PID ДВИЖЕНИЕ ПО ЛИНИИ"
 searchterms: "toggle 9Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/PIDLineFollower.pptx">PPTX</a>,
- <a href="ProgrammingLessons/PIDLineFollower.pdf">PDF</a>
+ <a href="ProgrammingLessons/PIDLineFollowerRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/PIDLineFollowerRU.pdf">PDF</a>
  </li>
  </ul>

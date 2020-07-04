@@ -1,12 +1,12 @@
 ---
-title: "Variables"
+title: "ПЕРЕМЕННЫЕ"
 searchterms: "toggle 8Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Variables.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Variables.pdf">PDF</a>
+ <a href="ProgrammingLessons/VariablesRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/VariablesRU.pdf">PDF</a>
  </li>
  </ul>

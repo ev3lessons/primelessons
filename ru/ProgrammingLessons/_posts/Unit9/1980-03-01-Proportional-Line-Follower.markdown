@@ -1,12 +1,12 @@
 ---
-title: "Proportional Line Follower"
+title: "ПРОПОРЦИОНАЛЬНОЕ ДВИЖЕНИЕ ПО ЛИНИИ"
 searchterms: "toggle 9Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/ProportionalLineFollower.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ProportionalLineFollower.pdf">PDF</a>
+ <a href="ProgrammingLessons/ProportionalLineFollowerRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/ProportionalLineFollowerRU.pdf">PDF</a>
  </li>
  </ul>
