@@ -1,6 +1,6 @@
 ---
 title: "SPIKE Prime vs. EV3"
-searchterms: "toggle"
+searchterms: "toggle 00Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---
