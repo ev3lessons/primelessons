@@ -12,7 +12,7 @@ This is a modification to the Advanced Driving Base for improved color sensor po
 Designed by: Arvind and Sanjay Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="/RobotDesigns/instructions/ABDModifications.pdf">PDF</a>
+ <a href="/RobotDesigns/instructions/ADBModifications.pdf">PDF</a>
 
  </li>
  </ul>
