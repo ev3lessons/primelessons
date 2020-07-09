@@ -1,5 +1,5 @@
 ---
-title: "Eenvoudiger Bouwen Met SPIKE Prime"
+title: "Eenvoudiger bouwen met SPIKE Prime"
 searchterms: "toggle 1Unit"
 lang: "nl"
 tag: ProgrammingLesson

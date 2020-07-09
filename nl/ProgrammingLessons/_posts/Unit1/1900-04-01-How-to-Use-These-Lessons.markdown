@@ -1,5 +1,5 @@
 ---
-title: "Hoe Deze Lessen Te Gebruiken"
+title: "Hoe deze lessen te gebruiken"
 searchterms: "toggle 1Unit"
 lang: "nl"
 tag: ProgrammingLesson
