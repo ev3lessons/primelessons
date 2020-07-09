@@ -12,8 +12,8 @@ This is a base robot built with one SPIKE Prime Core Set (45678) and the SPIKE P
 Designed by: Arvind and Sanjay Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="/RobotDesigns/instructions/DroidBotIVBuildInstructions.pdf">Robot</a><br>
- <a href="/RobotDesigns/instructions/DroidBotIVAttachment.pdf">Attachment</a>
+ <a href="/RobotDesigns/instructions/DroidBotEBuildInstructions.pdf">Robot</a><br>
+ <a href="/RobotDesigns/instructions/DroidBotEAttachment.pdf">Attachment</a>
 
  </li>
  </ul>
