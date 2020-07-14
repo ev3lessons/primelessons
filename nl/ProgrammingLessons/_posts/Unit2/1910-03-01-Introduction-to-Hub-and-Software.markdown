@@ -1,5 +1,5 @@
 ---
-title: "IntroducTie hub & software"
+title: "Introductie hub & software"
 searchterms: "toggle 2Unit"
 lang: "nl"
 tag: ProgrammingLesson

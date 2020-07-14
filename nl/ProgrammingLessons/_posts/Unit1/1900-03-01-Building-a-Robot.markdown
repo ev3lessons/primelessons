@@ -1,5 +1,5 @@
 ---
-title: "Bouw Een Robot"
+title: "Bouw een robot"
 searchterms: "toggle 1Unit"
 lang: "nl"
 tag: ProgrammingLesson
