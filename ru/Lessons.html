@@ -26,7 +26,15 @@ title: Programming Lessons
               <!-- tabs right -->
               <div class="col-md-1"></div>
               <div class="col-md-10 col-sm-12">
-                <!-- Nav tabs -->
+		<!-- Nav tabs -->
+		{% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "00Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
                 <h3>Unit 1:</h3>
                 {% for post in site.categories.ProgrammingLessons %}
                 {% if post.lang == page.lang and post.searchterms contains "1Unit" %}

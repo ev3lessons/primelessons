@@ -1,5 +1,5 @@
 ---
-title: "СОЗДАНИЕ SPIKE PRIME РОБОТОВ В CAD-программах"
+title: "Создание роботов SPIKE PRIME в программах CAD"
 searchterms: "toggle 1Unit"
 lang: "ru"
 tag: ProgrammingLesson
