@@ -7,6 +7,6 @@ tag: ProgrammingLesson
  <ul>
  <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/DistanceSensor.pptx">PPTX</a>,
- <a href="ProgrammingLessons/DistanceSensors.pdf">PDF</a>
+ <a href="ProgrammingLessons/DistanceSensor.pdf">PDF</a>
  </li>
  </ul>
