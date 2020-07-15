@@ -32,6 +32,7 @@
             <ul class="nav nav-tabs" role="tablist">
               <li class="nav-item">
                 <a class="nav-link active" data-toggle="tab" href="#tab10" role="tab">Training Robots</a>
+                <a class="nav-link active" data-toggle="tab" href="#tab11" role="tab">Other</a>
               </li>
 
 
@@ -51,32 +52,14 @@
               </div>
               <div role="tabpanel" class="tab-pane" id="tab11">
                 {% for post in site.categories.RobotDesigns %}
-                {% if post.searchterms contains "NXT" %}
+                {% if post.searchterms contains "other" %}
                 {% assign refvalue = i | downcase %}
                 {% include postlist.html ref=refvalue %}
                 {% assign i = i | plus:1 %}
                 {% endif %}
                 {% endfor %}
               </div>
-              <div role="tabpanel" class="tab-pane" id="tab12">
-                {% for post in site.categories.RobotDesigns %}
-                {% if post.searchterms contains "SUMO" %}
-                {% assign refvalue = i | downcase %}
-                {% include postlist.html ref=refvalue %}
-                {% assign i = i | plus:1 %}
-                {% endif %}
-                {% endfor %}
-              </div>
-              <div role="tabpanel" class="tab-pane" id="tab13">
-                These designs are contributed by the community. While they are not designed to go with our lessons, we believe that you will be able to learn some new building and programming skills through these projects. If you wish to contribute a design to this page, please contact us.
-                {% for post in site.categories.RobotDesigns %}
-                {% if post.searchterms contains "Other" %}
-                {% assign refvalue = i | downcase %}
-                {% include postlist.html ref=refvalue %}
-                {% assign i = i | plus:1 %}
-                {% endif %}
-                {% endfor %}
-              </div>
+
             </div>
           </div>
           <div class="col-sm-1"></div>
