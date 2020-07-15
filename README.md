@@ -1,2 +1,2 @@
-# primelessons-future
-Future Version of primelessons.com (Currently v2.0.0)
+# primelessons
+Primelessons.com (Currently v2.0.0)
