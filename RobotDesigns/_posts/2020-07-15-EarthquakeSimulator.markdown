@@ -12,10 +12,8 @@ This design is built with one SPIKE Prime Core Set (45678). It is designed to be
 Lesson and Robot Designed by: Arvind and Sanjay Seshan
 <ul>
  <li class="ng-binding">Build Instructions:
- <a href="/RobotDesigns/instructions/SPEarthquakeSimulator.pdf">Robot</a><br>
+ <a href="/RobotDesigns/instructions/SPEarthquakeSimulator.pdf">PDF</a><br>
  <br>
  <li class="ng-binding">Lesson Plan/Code Sample:
- <a href="/RobotDesigns/instructions/EarthquakeSimulatorLessonPlan.pdf">Lesson Plan</a><br>
-
- </li>
- </ul>
+ <a href="/RobotDesigns/instructions/EarthquakeSimulatorLessonPlan.pdf">PDF</a><br>
+</ul>
