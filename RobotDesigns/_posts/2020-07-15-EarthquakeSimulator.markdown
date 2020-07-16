@@ -15,7 +15,7 @@ Lesson and Robot Designed by: Arvind and Sanjay Seshan
  <a href="/RobotDesigns/instructions/SPEarthquakeSimulator.pdf">Robot</a><br>
  <br>
  <li class="ng-binding">Lesson Plan/Code Sample:
- <a href="/RobotDesigns/instructions/EarthquakeSimulatorLessonPlan.pdf">Robot</a><br>
+ <a href="/RobotDesigns/instructions/EarthquakeSimulatorLessonPlan.pdf">Lesson Plan</a><br>
 
  </li>
  </ul>
