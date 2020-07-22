@@ -1,5 +1,5 @@
 ---
-title: "SPIKE Prime ناء أسهل مع "
+title: "SPIKE Prime بناء أسهل مع  "
 searchterms: "toggle 1Unit"
 lang: "ar"
 tag: ProgrammingLesson
