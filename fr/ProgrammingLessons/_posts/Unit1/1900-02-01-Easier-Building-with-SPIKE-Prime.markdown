@@ -1,7 +1,7 @@
 ---
 title: "Construction plus facile avec SPIKE-Prime"
 searchterms: "toggle 1Unit"
-lang: "en"
+lang: "fr"
 tag: ProgrammingLesson
 ---
  <ul>
