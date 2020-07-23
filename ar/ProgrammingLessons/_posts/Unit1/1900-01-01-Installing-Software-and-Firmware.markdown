@@ -1,5 +1,5 @@
 ---
-title: "تثبيت البرنامج و FIRMWARE"
+title: "Firmware تثبيت البرنامج و "
 searchterms: "toggle 1Unit"
 lang: "ar"
 tag: ProgrammingLesson
