@@ -1,0 +1,12 @@
+---
+title: "Mes blocs"
+searchterms: "toggle 8Unit"
+lang: "fr"
+tag: ProgrammingLesson
+---
+ <ul>
+ <li class="ng-binding">Slides:
+ <a href="ProgrammingLessons/FLL-RD-29-U8-Mes-blocs.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/FLL-RD-29-U8-Mes-blocs.pdf">PDF</a>
+ </li>
+ </ul>

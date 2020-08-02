@@ -8,7 +8,7 @@ tag: ProgrammingLesson
  <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/FLL-RD-03-U1-Construction-d-un-robot.pptx">PPTX</a>,
  <a href="ProgrammingLessons/FLL-RD-03-U1-Construction-d-un-robot.pdf">PDF</a>
-
-See the Robot Designs tab on this website for a collection of basic training designs.
+<br>
+Consultez l'onglet "Robot Designs" sur ce site web pour une collection de modèles de formation de base.
  </li>
  </ul>
