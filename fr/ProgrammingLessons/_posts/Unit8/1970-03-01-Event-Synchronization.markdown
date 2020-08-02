@@ -1,7 +1,7 @@
 ---
 title: "Synchronisation des événements"
 searchterms: "toggle 8Unit"
-lang: "en"
+lang: "fr"
 tag: ProgrammingLesson
 ---
  <ul>
