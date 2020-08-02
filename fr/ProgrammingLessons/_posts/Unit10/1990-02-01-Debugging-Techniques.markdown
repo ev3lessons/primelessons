@@ -1,7 +1,7 @@
 ---
 title: "Techniques de débuggage"
 searchterms: "toggle 10Unit"
-lang: "en"
+lang: "fr"
 tag: ProgrammingLesson
 ---
  <ul>
