@@ -5,8 +5,12 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
+ <li class="ng-binding">Word Block Slides:
  <a href="ProgrammingLessons/MovingStraight.pptx">PPTX</a>,
  <a href="ProgrammingLessons/MovingStraight.pdf">PDF</a>
+ </li>
+ <li class="ng-binding">Micro Python Slides:
+ <a href="ProgrammingLessons/MovingStraightPy.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/MovingStraightPy.pdf">PDF</a>
  </li>
  </ul>
