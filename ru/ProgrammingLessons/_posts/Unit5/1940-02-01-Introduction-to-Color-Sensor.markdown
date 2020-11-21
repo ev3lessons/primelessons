@@ -5,7 +5,7 @@ lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Wprd Block Slides:
+ <li class="ng-binding">Word Block Slides:
  <a href="ProgrammingLessons/ColorSensorRU.pptx">PPTX</a>,
  <a href="ProgrammingLessons/ColorSensorRU.pdf">PDF</a>
  </li>
