@@ -6,6 +6,6 @@ tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/SPIKEPrimeBlockGuide.pdf">PDF</a>
+ <a href="ProgrammingLessons/SPBlockGuide.pdf">PDF</a>
  </li>
  </ul>
