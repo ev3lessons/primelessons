@@ -1,5 +1,5 @@
 ---
-title: "Импортирование пользовательских библиотек
+title: "Импортирование пользовательских библиотек"
 searchterms: "toggle XIUnit"
 lang: "ru"
 tag: ProgrammingLesson
