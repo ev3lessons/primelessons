@@ -10,7 +10,7 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/IfThenBlocks.pdf">PDF</a>
  </li>
  <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/IfElseStatements.pptx">PPTX</a>,
- <a href="ProgrammingLessons/IfElseStatements.pdf">PDF</a>
+ <a href="ProgrammingLessons/IfElseStatementsPy.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/IfElseStatementsPy.pdf">PDF</a>
  </li>
  </ul>
