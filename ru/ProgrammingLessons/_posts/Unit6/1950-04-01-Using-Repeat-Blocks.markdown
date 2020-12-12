@@ -1,5 +1,5 @@
 ---
-title: "БЛОКИ ЦИКЛОВ"
+title: "БЛОКИ ЦИКЛОВ/ЦИКЛы"
 searchterms: "toggle 6Unit"
 lang: "ru"
 tag: ProgrammingLesson
@@ -10,7 +10,7 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/RepeatBlocksRU.pdf">PDF</a>
  </li>
  <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/RepeatBlocksPyRU.pptx">PPTX</a>,
- <a href="ProgrammingLessons/RepeatBlocksPyRU.pdf">PDF</a>
+ <a href="ProgrammingLessons/LoopsPyRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/LoopsPyRU.pdf">PDF</a>
  </li>
  </ul>

@@ -1,5 +1,5 @@
 ---
-title: "БЛОКИ ПОДСВЕТКИ"
+title: "БЛОКИ ПОДСВЕТКИ/Функции ПОДСВЕТКИ"
 searchterms: "toggle 6Unit"
 lang: "ru"
 tag: ProgrammingLesson
@@ -10,7 +10,7 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/LightBlocksRU.pdf">PDF</a>
  </li>
  <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/LightBlocksPyRU.pptx">PPTX</a>,
- <a href="ProgrammingLessons/LightBlocksPyRU.pdf">PDF</a>
+ <a href="ProgrammingLessons/LightFunctionsPyRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/LightFunctionsPyRU.pdf">PDF</a>
  </li>
  </ul>
