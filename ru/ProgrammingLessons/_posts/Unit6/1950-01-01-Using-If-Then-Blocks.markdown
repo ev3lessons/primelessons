@@ -5,8 +5,12 @@ lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
+ <li class="ng-binding">Word Block Slides:
  <a href="ProgrammingLessons/IfThenBlocksRU.pptx">PPTX</a>,
  <a href="ProgrammingLessons/IfThenBlocksRU.pdf">PDF</a>
+ </li>
+ <li class="ng-binding">Python Slides:
+ <a href="ProgrammingLessons/IfThenBlocksPyRU.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/IfThenBlocksPyRU.pdf">PDF</a>
  </li>
  </ul>
