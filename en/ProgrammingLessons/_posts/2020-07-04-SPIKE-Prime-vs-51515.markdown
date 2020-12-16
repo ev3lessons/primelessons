@@ -1,5 +1,5 @@
 ---
-title: "SPIKE Prime vs. 51515"
+title: "SPIKE Prime vs. Robot Inventor"
 searchterms: "toggle 00Unit"
 lang: "en"
 tag: ProgrammingLesson

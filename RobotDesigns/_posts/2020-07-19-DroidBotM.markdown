@@ -1,5 +1,5 @@
 ---
-title: "Droid Bot M"
+title: "Droid Bot M (Modular)"
 searchterms: "SPIKE Prime"
 lang: "en"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Earthquake Simulator"
+title: "Earthquake Simulator (SPIKE Prime)"
 searchterms: "other"
 lang: "en"
 ---
@@ -16,4 +16,3 @@ Lesson and Robot Designed by: Arvind and Sanjay Seshan
  <br>
  <li class="ng-binding">Lesson Plan/Code Sample:
  <a href="/RobotDesigns/instructions/EarthquakeSimulatorLessonPlan.pdf">PDF</a><br>
-</ul>
