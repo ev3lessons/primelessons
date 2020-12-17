@@ -1,5 +1,5 @@
 ---
-title: "Easier Building with SPIKE Prime"
+title: "Easier Building with SPIKE Prime and Robot Inventor"
 searchterms: "toggle 1Unit"
 lang: "en"
 tag: ProgrammingLesson
