@@ -9,7 +9,7 @@ lang: "en"
 This is a modular base robot is built from one LEGO MINDSTORMS Robot Inventor (51515) Set. It is designed to be a training robot for FIRST LEGO League Challenge. Attachments are easy to put on and take off. A sample attachment module is provided.
 <br>
 <br>
-Designed by: Arvind Seshan
+Designed by: Sanjay and Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
  <a href="/RobotDesigns/instructions/DroidBotMRobotInventor.pdf">Robot</a><br>
