@@ -1,5 +1,5 @@
 ---
-title: "Droid Bot E (Expansion)"
+title: "Droid Bot E (Expansion) - SPIKE Prime"
 searchterms: "SPIKE Prime"
 lang: "en"
 ---
