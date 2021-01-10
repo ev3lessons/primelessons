@@ -11,6 +11,6 @@ tag: ProgrammingLesson
  </li>
  <li class="ng-binding">Python Slides:
  <a href="ProgrammingLessons/IfElseStatementsPyRU.pptx">PPTX</a>,
- <a href="ProgrammingLessons/IfElseStatementsRU.pdf">PDF</a>
+ <a href="ProgrammingLessons/IfElseStatementsPyRU.pdf">PDF</a>
  </li>
  </ul>
