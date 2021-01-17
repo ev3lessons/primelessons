@@ -9,9 +9,6 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/ViewingSensorValues.pptx">PPTX</a>,
  <a href="ProgrammingLessons/ViewingSensorValues.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/ViewingSensorValuesPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ViewingSensorValuesPy.pdf">PDF</a>
- </li>
+
 
  </ul>

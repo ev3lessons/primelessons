@@ -9,8 +9,5 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/MovingStraight.pptx">PPTX</a>,
  <a href="ProgrammingLessons/MovingStraight.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/MovingStraightPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/MovingStraightPy.pdf">PDF</a>
- </li>
+
  </ul>

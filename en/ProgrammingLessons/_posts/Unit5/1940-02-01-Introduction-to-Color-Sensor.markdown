@@ -9,8 +9,5 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/ColorSensor.pptx">PPTX</a>,
  <a href="ProgrammingLessons/ColorSensor.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/ColorSensorPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ColorSensorPy.pdf">PDF</a>
- </li>
+
  </ul>

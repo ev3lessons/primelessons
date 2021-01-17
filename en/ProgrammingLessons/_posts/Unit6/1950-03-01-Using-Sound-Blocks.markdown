@@ -9,8 +9,5 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/SoundBlocks.pptx">PPTX</a>,
  <a href="ProgrammingLessons/SoundBlocks.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/SpeakerFunctionsPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/SpeakerFunctionsPy.pdf">PDF</a>
- </li>
+
  </ul>

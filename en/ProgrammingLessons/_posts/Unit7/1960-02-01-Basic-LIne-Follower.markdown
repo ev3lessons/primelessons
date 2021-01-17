@@ -9,8 +9,5 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/LineFollower.pptx">PPTX</a>,
  <a href="ProgrammingLessons/LineFollower.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/LineFollowerPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/LineFollowerPy.pdf">PDF</a>
- </li>
+
  </ul>

@@ -9,8 +9,5 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/AccurateTurning.pptx">PPTX</a>,
  <a href="ProgrammingLessons/AccurateTurning.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/AccurateTurningPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/AccurateTurningPy.pdf">PDF</a>
- </li>
+
  </ul>

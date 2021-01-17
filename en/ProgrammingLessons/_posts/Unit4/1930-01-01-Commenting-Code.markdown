@@ -9,8 +9,5 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/Comments.pptx">PPTX</a>,
  <a href="ProgrammingLessons/Comments.pdf">PDF</a>
  </li>
- <li class="ng-binding">Python Slides:
- <a href="ProgrammingLessons/CommentsPy.pptx">PPTX</a>,
- <a href="ProgrammingLessons/CommentsPy.pdf">PDF</a>
- </li>
+
  </ul>
