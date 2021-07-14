@@ -3,8 +3,6 @@ title: "Rock Paper Scissors(Robot Inventor)"
 searchterms: "other"
 lang: "en"
 ---
-<img style="width:100%" src="" alt="">
-<br>
 
 This is a one-kit build. Watch the video here: <a href="https://youtu.be/MwoE_gScDd8">Video</a>.
 <br>
