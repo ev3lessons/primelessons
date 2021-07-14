@@ -1,5 +1,5 @@
 ---
-title: "Print and Scan(Robot Inventor)"
+title: "Print and Scan (Robot Inventor)"
 searchterms: "other"
 lang: "en"
 ---
