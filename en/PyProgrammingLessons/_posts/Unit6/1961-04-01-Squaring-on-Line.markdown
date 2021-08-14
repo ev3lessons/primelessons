@@ -1,6 +1,6 @@
 ---
 title: "Squaring on a Line"
-searchterms: "toggle 8Unit"
+searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

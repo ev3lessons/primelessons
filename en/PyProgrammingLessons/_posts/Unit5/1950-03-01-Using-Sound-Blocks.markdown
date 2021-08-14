@@ -1,6 +1,6 @@
 ---
-title: "Using Sound Blocks/Speaker Functions"
-searchterms: "toggle 6Unit"
+title: "Using Speaker Functions"
+searchterms: "toggle 5Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---
@@ -8,6 +8,6 @@ tag: ProgrammingLesson
 
  <li class="ng-binding">Python Slides:
  <a href="PyProgrammingLessons/SpeakerFunctions.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/SpeakerFunctionsPy.pdf">PDF</a>
+ <a href="PyProgrammingLessons/SpeakerFunctions.pdf">PDF</a>
  </li>
  </ul>

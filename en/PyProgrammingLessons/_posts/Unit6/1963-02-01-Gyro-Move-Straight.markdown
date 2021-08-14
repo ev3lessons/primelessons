@@ -1,6 +1,6 @@
 ---
 title: "Gyro Move Straight"
-searchterms: "toggle 8Unit"
+searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

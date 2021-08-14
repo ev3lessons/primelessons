@@ -1,5 +1,5 @@
 ---
-title: "Using Sound Blocks/Speaker Functions"
+title: "Using Sound Blocks"
 searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson

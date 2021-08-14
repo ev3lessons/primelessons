@@ -1,6 +1,6 @@
 ---
-title: "Using Light Blocks/Light Functions"
-searchterms: "toggle 6Unit"
+title: "Using Light Functions"
+searchterms: "toggle 5Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

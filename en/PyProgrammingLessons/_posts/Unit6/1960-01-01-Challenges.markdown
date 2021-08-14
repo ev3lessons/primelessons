@@ -1,6 +1,6 @@
 ---
 title: "Challenges"
-searchterms: "toggle 7Unit"
+searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

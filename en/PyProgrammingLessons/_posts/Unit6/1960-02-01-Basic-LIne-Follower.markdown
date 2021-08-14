@@ -1,6 +1,6 @@
 ---
 title: "Basic Line Follower"
-searchterms: "toggle 7Unit"
+searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

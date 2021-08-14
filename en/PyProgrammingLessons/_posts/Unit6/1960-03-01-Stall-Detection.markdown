@@ -1,6 +1,6 @@
 ---
 title: "Moving Object with Stall Detection"
-searchterms: "toggle 7Unit"
+searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---
