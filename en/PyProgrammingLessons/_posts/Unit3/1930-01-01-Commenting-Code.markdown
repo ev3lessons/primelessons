@@ -1,6 +1,6 @@
 ---
 title: "Commenting Code"
-searchterms: "toggle 4Unit"
+searchterms: "toggle 3Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---

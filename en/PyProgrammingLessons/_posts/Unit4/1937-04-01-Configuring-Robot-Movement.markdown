@@ -1,6 +1,6 @@
 ---
 title: "Configuring Robot Movement"
-searchterms: "toggle 3Unit"
+searchterms: "toggle 4Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---
