@@ -6,7 +6,7 @@ tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/BackingUpFiles.pdf">PDF</a>,
+ <a href="ProgrammingLessons/BackingUpFiles.pdf">PDF</a>
  </li>
 
 
