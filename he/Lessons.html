@@ -1,0 +1,162 @@
+---
+layout: index
+title: Programming Lessons
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+
+
+<!-- We reopen main-content and container -->
+<body onload="loadTab();">
+
+
+<div class="content">
+
+  <div class="main-content" >
+    <div class="tabs-accordions">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="page-header-title">
+              <h2 class="heading-title text-center">שיעורי תכנות SCRATCH</h2>
+            </div>
+            {% assign i = 0 %}
+
+            <div class="row">
+              <!-- tabs right -->
+              <div class="col-md-1"></div>
+              <div class="col-md-10 col-sm-12">
+                <!-- Nav tabs -->
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "00Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+
+                <h3>יחידת לימוד #1 - הקדמה</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "1Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #2 - ניווט בתוכנה</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "2Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #3 - תזוזה ופנייה</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "3Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #4 - הרגלי תכנות טובים</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "4Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #5 - שימוש בחיישנים</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "5Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #6 - שיפור טכניקות תכנות</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "6Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+            
+                <h3>יחידות לימוד #7 - שילוב כל מה שלמדנו</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "7Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #8 - טכניקות תכנות מתקדמות</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "8Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>יחידת לימוד #9 - שימוש מתקדם בחיישנים</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "9Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}                           
+            
+                <h3>יחידת לימוד #10 - טכניקות עבור FIRST LEGO League </h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "10Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+            
+                <h3>Unit 11:</h3>
+                {% for post in site.categories.ProgrammingLessons %}
+                {% if post.lang == page.lang and post.searchterms contains "11Unit" %}
+                {% assign refvalue = i | downcase %}
+                {% include postlist.html ref=refvalue %}
+                {% assign i = i | plus:1 %}
+                {% endif %}
+                {% endfor %}
+              
+              </div>
+            <div class="col-md-1"></div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+function loadTab() {
+  document.getElementById(getParameterByName('tab')).click()
+}
+</script>
+</body>

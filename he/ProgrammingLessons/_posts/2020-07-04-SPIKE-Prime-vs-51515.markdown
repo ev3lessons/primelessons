@@ -1,0 +1,12 @@
+---
+title: "SPIKE PRIME מול ROBOT INVENTOR"
+searchterms: "toggle 00Unit"
+lang: "he"
+tag: ProgrammingLesson
+---
+ <ul>
+ <li class="ng-binding">Slides:
+ <a href="ProgrammingLessons/SPvs51515-Hebrew.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SPvs51515-Hebrew.pptx.pdf">PDF</a>
+ </li>
+ </ul>
