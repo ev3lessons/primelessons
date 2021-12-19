@@ -7,7 +7,7 @@ tag: ProgrammingLesson
  <ul>
  <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/CAD-Hebrew.pptx">PPTX</a>,
- <a href="ProgrammingLessons/CAD-Hebrew.pdf">PDF</a>
+ <a href="ProgrammingLessons/CAD-Hebrew.pptx.pdf">PDF</a>
 
  </li>
  </ul>

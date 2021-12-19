@@ -7,7 +7,7 @@ tag: ProgrammingLesson
  <ul>
  <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/IntroductiontoHubandSoftware-Hebrew.pptx">PPTX</a>,
- <a href="ProgrammingLessons/IntroductiontoHubandSoftwarePy-Hebrew.pptx.pdf">PDF</a>
+ <a href="ProgrammingLessons/IntroductiontoHubandSoftware-Hebrew.pptx.pdf">PDF</a>
  </li>
 <!-- <li class="ng-binding">Python-specific Slides:
  <a href="PyProgrammingLessons/IntroductiontoHubandSoftwarePython.pptx">PPTX</a>,
