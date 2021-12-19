@@ -7,6 +7,6 @@ tag: ProgrammingLesson
  <ul>
  <li class="ng-binding">Slides:
  <a href="ProgrammingLessons/SquaringonLine-Hebrew.pptx">PPTX</a>,
- <a href="ProgrammingLessons/SquaringonLine-Hebrew.pdf.pdf">PDF</a>
+ <a href="ProgrammingLessons/SquaringonLine-Hebrew.pptx.pdf">PDF</a>
  </li>
  </ul>
