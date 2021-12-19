@@ -1,7 +1,7 @@
 ---
 title: "SPIKE Prime vs. Robot Inventor"
 searchterms: "toggle 00Unit"
-lang: "en"
+lang: "ru"
 tag: ProgrammingLesson
 ---
  <ul>

@@ -1,5 +1,5 @@
 ---
-title: "Using Repeat Blocks/Loops"
+title: "Using Repeat Blocks"
 searchterms: "toggle 6Unit"
 lang: "en"
 tag: ProgrammingLesson
