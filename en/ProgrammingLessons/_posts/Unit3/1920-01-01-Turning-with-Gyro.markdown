@@ -5,7 +5,7 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">SPIKE 2Word Block Slides:
+ <li class="ng-binding">SPIKE 2 Word Block Slides:
  <a href="ProgrammingLessons/GyroTurning.pptx">PPTX</a>,
  <a href="ProgrammingLessons/GyroTurning.pdf">PDF</a>
  </li>
