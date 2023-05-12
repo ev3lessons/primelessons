@@ -10,7 +10,7 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/AccurateTurning.pdf">PDF</a>
  </li>
 
- <li class="ng-binding">SPIKE 3 Word Block Slides Coming Soon:
+ <li class="ng-binding">SPIKE 3 Word Block Slides:
  <a href="ProgrammingLessons/SP3AccurateTurning.pptx">PPTX</a>,
  <a href="ProgrammingLessons/SP3AccurateTurning.pdf">PDF</a>
  </li>
