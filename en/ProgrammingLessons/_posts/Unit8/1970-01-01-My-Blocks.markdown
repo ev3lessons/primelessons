@@ -5,8 +5,13 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
+ <li class="ng-binding"> SPIKE 2 Word Block Slides:
  <a href="ProgrammingLessons/MyBlocks.pptx">PPTX</a>,
  <a href="ProgrammingLessons/MyBlocks.pdf">PDF</a>
+ </li>
+ </ul>
+ <li class="ng-binding"> SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/SP3MyBlocks.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3MyBlocks.pdf">PDF</a>
  </li>
  </ul>
