@@ -12,6 +12,6 @@ This is a modular base robot built with elements in one SPIKE Prime Core Set (45
 Designed by: Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
- <a href="/RobotDesigns/instructions/CoopBot.pdf">Robot</a><br>
+ <a href="/RobotDesigns/instructions/CoopBot.pdf">PDF</a><br>
  </li>
  </ul>
