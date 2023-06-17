@@ -13,5 +13,6 @@ Designed by: Arvind Seshan
 <ul>
  <li class="ng-binding">Instructions:
  <a href="/RobotDesigns/instructions/CoopBot.pdf">PDF</a><br>
+<a href="/RobotDesigns/instructions/CoopBotCableManagement.pdf">PDF</a><br>
  </li>
  </ul>
