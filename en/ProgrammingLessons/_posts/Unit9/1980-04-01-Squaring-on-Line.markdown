@@ -10,7 +10,8 @@ tag: ProgrammingLesson
  <a href="ProgrammingLessons/SquaringonLine.pdf">PDF</a>
  </li>
 
- <li class="ng-binding">SPIKE 3 Word Block Slides:
- TBD (Bug in software)
+ <li class="ng-binding">SPIKE 3 Word Block Slides:(Note: Bug in software may cause some issues)
+ <a href="ProgrammingLessons/SP3SquaringonLine.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3SquaringonLine.pdf">PDF</a>
  </li>
  </ul>
