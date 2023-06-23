@@ -5,9 +5,9 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">SPIKE 2 and SPIKE 3 Word Block Slides:
- <a href="ProgrammingLessons/GyroDrift.pptx">PPTX</a>,
- <a href="ProgrammingLessons/GyroDrift.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/SP3GyroDrift.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3GyroDrift.pdf">PDF</a>
  </li>
 
  </ul>
