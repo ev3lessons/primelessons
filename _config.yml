@@ -189,7 +189,7 @@ defaults:
     values:
       lang: "he"
   -
-      scope:
+    scope:
       path: "ro"
     values:
       lang: "ro"
