@@ -1,0 +1,174 @@
+---
+layout: index
+title: Programming Lessons
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+
+
+<!-- We reopen main-content and container -->
+<body onload="loadTab();">
+
+
+  <div class="content">
+
+    <div class="main-content" >
+      <div class="tabs-accordions">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="page-header-title">
+                <h2 class="heading-title text-center">Python Programming Lessons</h2>
+              </div>
+              <div class="row">
+
+                <div class="col-sm-2">
+                </div>
+                <div class="col-sm-8">
+                  <img style="width:100%" src="{{ BASE_PATH }}/RobotDesigns/images/MatPY.jpg" alt="">
+                </div>
+              </div>
+              <br /> <br>
+              {% assign i = 0 %}
+
+              <div class="row">
+                <!-- tabs right -->
+                <div class="col-md-1"></div>
+                <div class="col-md-10 col-sm-12">
+                  <!-- Nav tabs -->
+
+		  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "00Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <h3>Unit 1: Overview</h3>
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "1Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <h3>Unit 2: Introduction to Software and Hub</h3>
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "2Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <h3>Unit 3: Introduction to Python</h3>
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "3Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <h3>Unit 4: Movement</h3>
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "4Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <h3>Unit 5: Sensors and Outputs</h3>
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "5Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <h3>Unit 6: Advanced Programming</h3>
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "6Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+
+                  <!-- <h3>Unit 7:</h3> -->
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "7Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <!-- <h3>Unit 8:</h3> -->
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "8Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <!-- <h3>Unit 9:</h3> -->
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "9Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <!-- <h3>Unit 10:</h3> -->
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "10Unit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+                  <!-- <h3>Unit 11:</h3> -->
+                  {% for post in site.categories.PyProgrammingLessons %}
+                  {% if post.lang == page.lang and post.searchterms contains "XIUnit" %}
+                  {% assign refvalue = i | downcase %}
+                  {% include postlist.html ref=refvalue %}
+                  {% assign i = i | plus:1 %}
+                  {% endif %}
+                  {% endfor %}
+
+
+
+                </div>
+                <div class="col-md-1"></div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+    function getParameterByName(name, url) {
+      if (!url) url = window.location.href;
+      name = name.replace(/[\[\]]/g, "\\$&");
+      var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+      results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+      return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    function loadTab() {
+      document.getElementById(getParameterByName('tab')).click()
+    }
+    </script>
+  </body>

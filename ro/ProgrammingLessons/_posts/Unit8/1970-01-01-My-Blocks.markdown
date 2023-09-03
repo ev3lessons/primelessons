@@ -1,0 +1,12 @@
+---
+title: "My Blocks"
+searchterms: "toggle 8Unit"
+lang: "ro"
+tag: ProgrammingLesson
+---
+ <ul>
+ <li class="ng-binding"> SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/SP3MyBlocks(rom).pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3MyBlocks(rom).pdf">PDF</a>
+ </li>
+ </ul>
