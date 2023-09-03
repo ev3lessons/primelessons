@@ -196,4 +196,4 @@ defaults:
 # {% assign all_langs = "en:United States:English,es:Spain:Español,nl:Netherlands:Nederlands,ar:Saudi Arabia:العَرَبِيةُ‎‎,pt:Brazil:Portugues,el:Greece:Ελληνικά,fr:France:français,ct:Catalonia:català,he:Israel:עברית,it:Italy:Italiano" | split: "," %}
 
 # all_langs: ['en:United States:English','pt:Brazil:Portugues','nl:Netherlands:Nederlands'‎,'ru:Russia:русский']
-all_langs: ['en:United States:English:English','nl:Netherlands:Nederlands:Dutch','pt:Brazil:Portugues:Portuguese','ru:Russia:русский:Russian','fr:France:français:French','ar:Saudi Arabia:العَرَبِيةُ:Arabic','th:Thailand:ไทย:Thai','he:Israel:עברית:Hebrew', ro:Romania:Romanian]
+all_langs: ['en:United States:English:English','nl:Netherlands:Nederlands:Dutch','pt:Brazil:Portugues:Portuguese','ru:Russia:русский:Russian','fr:France:français:French','ar:Saudi Arabia:العَرَبِيةُ:Arabic','th:Thailand:ไทย:Thai','he:Israel:עברית:Hebrew', 'ro:Romania:românește:Romanian']
