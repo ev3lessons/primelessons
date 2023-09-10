@@ -5,8 +5,12 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Python Slides:
+ <li class="ng-binding">SPIKE 2 Python Slides:
  <a href="PyProgrammingLessons/Loops.pptx">PPTX</a>,
  <a href="PyProgrammingLessons/Loops.pdf">PDF</a>
+ </li>
+ <li class="ng-binding">SPIKE 3 Python Slides:
+ <a href="PyProgrammingLessons/SP3Loops.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3Loops.pdf">PDF</a>
  </li>
  </ul>

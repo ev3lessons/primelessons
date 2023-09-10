@@ -6,9 +6,9 @@ tag: ProgrammingLesson
 ---
  <ul>
 
- <li class="ng-binding">Slides:
+ <li class="ng-binding">SPIKE 2 and SPIKE 3 Slides:
  <a href="ProgrammingLessons/ViewingSensorValues.pptx">PPTX</a>,
- <a href="PProgrammingLessons/ViewingSensorValues.pdf">PDF</a>
+ <a href="ProgrammingLessons/ViewingSensorValues.pdf">PDF</a>
  </li>
 
  </ul>
