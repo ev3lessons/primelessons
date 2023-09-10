@@ -5,7 +5,7 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/SPBlockGuide.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 3 Slides:
+ <a href="ProgrammingLessons/SP3BlockGuide.pdf">PDF</a>
  </li>
  </ul>
