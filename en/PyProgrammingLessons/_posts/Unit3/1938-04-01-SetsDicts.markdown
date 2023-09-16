@@ -5,7 +5,7 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Python Slides:
+ <li class="ng-binding">SPIKE 2.0 and SPIKE 3.0 Python Slides:
  <a href="PyProgrammingLessons/DictsSets.pptx">PPTX</a>,
  <a href="PyProgrammingLessons/DictsSets.pdf">PDF</a>
  </li>
