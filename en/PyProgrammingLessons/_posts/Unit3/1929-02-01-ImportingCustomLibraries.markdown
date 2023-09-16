@@ -5,7 +5,7 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Python Slides:
+ <li class="ng-binding">SPIKE 2 Python Slides:
  <a href="PyProgrammingLessons/ImportingCustomLibraries.pptx">PPTX</a>,
  <a href="PyProgrammingLessons/ImportingCustomLibraries.pdf">PDF</a>
  </li>

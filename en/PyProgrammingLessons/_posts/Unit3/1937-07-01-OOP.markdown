@@ -5,11 +5,11 @@ lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">SPIKE 2.0 Python Slides:
+ <li class="ng-binding">SPIKE 2 Python Slides:
  <a href="PyProgrammingLessons/OOP.pptx">PPTX</a>,
  <a href="PyProgrammingLessons/OOP.pdf">PDF</a>
  </li>
- <li class="ng-binding">SPIKE 3.0 Python Slides:
+ <li class="ng-binding">SPIKE 3 Python Slides:
  <a href="PyProgrammingLessons/SP3OOPPython.pptx">PPTX</a>,
  <a href="PyProgrammingLessons/SP3OOPPython.pdf">PDF</a>
  </li>
