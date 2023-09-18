@@ -10,7 +10,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/Loops.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
- <a href="PyProgrammingLessons/SP3Loops.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/SP3Loops.pdf">PDF</a>
+ <a href="PyProgrammingLessons/SP3LoopsPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3LoopsPython.pdf">PDF</a>
  </li>
  </ul>
