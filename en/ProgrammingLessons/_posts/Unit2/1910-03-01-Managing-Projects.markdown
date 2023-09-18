@@ -6,7 +6,7 @@ tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">SPIKE 2 and SPIKE 3 Slides:
- <a href="ProgrammingLessons/ManagingProjects.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ManagingProjects.pdf">PDF</a>
+ <a href="ProgrammingLessons/SP3ManagingProjects.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3ManagingProjects.pdf">PDF</a>
  </li>
  </ul>
