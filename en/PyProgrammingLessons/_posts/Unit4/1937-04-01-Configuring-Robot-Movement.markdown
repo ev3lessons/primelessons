@@ -11,5 +11,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/ConfiguringRobotMovement.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
+ <a href="PyProgrammingLessons/SP3ConfiguringRobotMovementPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3ConfiguringRobotMovementPython.pdf">PDF</a>
  </li>
  </ul>
