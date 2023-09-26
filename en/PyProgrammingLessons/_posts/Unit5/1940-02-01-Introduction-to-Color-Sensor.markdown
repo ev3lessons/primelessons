@@ -11,5 +11,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/ColorSensor.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
- </li>
+ <a href="PyProgrammingLessons/SP3ColorSensorPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3ColorSensorPython.pdf">PDF</a>
+</li>
  </ul>

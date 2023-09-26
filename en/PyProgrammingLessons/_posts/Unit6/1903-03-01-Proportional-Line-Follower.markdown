@@ -10,6 +10,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/ProportionalLineFollower.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Slides:
-
+ <a href="PyProgrammingLessons/SP3ProportionalLineFollowerPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3ProportionalLineFollowerPython.pdf">PDF</a>
  </li>
  </ul>
