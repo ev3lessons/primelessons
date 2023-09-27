@@ -10,5 +10,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/GyroMoveStraight.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
+ <a href="PyProgrammingLessons/SP3GyroMoveStraightPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3GyroMoveStraightPython.pdf">PDF</a>
  </li>
  </ul>

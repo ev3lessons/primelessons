@@ -10,5 +10,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/PIDLineFollower.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
+ <a href="PyProgrammingLessons/SP3PIDLineFollowerPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3PIDLineFollowerPython.pdf">PDF</a>
  </li>
  </ul>

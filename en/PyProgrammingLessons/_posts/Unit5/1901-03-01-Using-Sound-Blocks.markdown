@@ -11,5 +11,7 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/SpeakerFunctions.pdf">PDF</a>
  </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
+ <a href="PyProgrammingLessons/SP3SpeakerFunctionsPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3SpeakerFunctionsPython.pdf">PDF</a>
  </li>
  </ul>
