@@ -9,4 +9,8 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/ImportingCustomLibraries.pptx">PPTX</a>,
  <a href="PyProgrammingLessons/ImportingCustomLibraries.pdf">PDF</a>
  </li>
+ <li class="ng-binding">SPIKE 3 Python Slides:
+ <a href="PyProgrammingLessons/SP3ImportingCustomLibrariesPython.pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3ImportingCustomLibrariesPython.pdf">PDF</a>
+ </li>
  </ul>
