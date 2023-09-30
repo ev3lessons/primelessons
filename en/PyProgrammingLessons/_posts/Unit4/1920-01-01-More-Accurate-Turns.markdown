@@ -15,4 +15,3 @@ tag: ProgrammingLesson
  <a href="PyProgrammingLessons/SP3AccurateTurningPython.pdf">PDF</a>
  </li>
  </ul>
-x
