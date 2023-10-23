@@ -1,12 +1,12 @@
 ---
-title: "Reliability"
+title: "Betrouwbaarheid"
 searchterms: "toggle 10Unit"
-lang: "en"
+lang: "nl"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">SPIKE 2 and SPIKE 3 Slides:
- <a href="ProgrammingLessons/Reliability.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Reliability.pdf">PDF</a>
+ <a href="ProgrammingLessons/Betrouwbaarheid.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/Betrouwbaarheid.pdf">PDF</a>
  </li>
  </ul>

@@ -1,7 +1,7 @@
 ---
 title: "Challenges"
 searchterms: "toggle 7Unit"
-lang: "en"
+lang: "nl"
 tag: ProgrammingLesson
 ---
  <ul>
