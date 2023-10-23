@@ -1,7 +1,7 @@
 ---
 title: "Inleiding tot hub en software"
 searchterms: "toggle 2Unit"
-lang: "en"
+lang: "nl"
 tag: ProgrammingLesson
 ---
  <ul>
