@@ -1,12 +1,14 @@
 ---
-title: "Sensorgegevens bekijken"
+title: "Viewing Sensor Values"
 searchterms: "toggle 2Unit"
-lang: "nl"
+lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Sensorwaarden-bekijken.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Sensorwaarden-bekijken.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 2 and SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/ViewingSensorValues.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/ViewingSensorValues.pdf">PDF</a>
  </li>
+
+
  </ul>

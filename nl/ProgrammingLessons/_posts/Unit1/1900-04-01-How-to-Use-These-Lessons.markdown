@@ -6,7 +6,7 @@ tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/HoeDezeLessenTeGebruiken.pptx">PPTX</a>,
- <a href="ProgrammingLessons/HoeDezeLessenTeGebruiken.pdf">PDF</a>
+ <a href="ProgrammingLessons/Hoetegebruiken.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/Hoetegebruiken.pdf">PDF</a>
  </li>
  </ul>

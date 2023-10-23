@@ -1,12 +1,13 @@
 ---
-title: "lichtblokken GEBRUIKEN"
+title: "Using Light Blocks"
 searchterms: "toggle 6Unit"
-lang: "nl"
+lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/6c-lichtblokken.pptx">PPTX</a>,
- <a href="ProgrammingLessons/6c-lichtblokken.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 2 and SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/LightBlocks.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/LightBlocks.pdf">PDF</a>
  </li>
+
  </ul>

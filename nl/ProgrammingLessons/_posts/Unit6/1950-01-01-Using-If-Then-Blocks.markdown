@@ -1,12 +1,13 @@
 ---
-title: "Als dan blok"
+title: "Using If-Then Blocks"
 searchterms: "toggle 6Unit"
-lang: "nl"
+lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/6d-Als-dan-blok.pptx">PPTX</a>,
- <a href="ProgrammingLessons/6d-Als-dan-blok.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 2 and SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/IfThenBlocks.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/IfThenBlocks.pdf">PDF</a>
  </li>
+
  </ul>

@@ -1,12 +1,17 @@
 ---
-title: "Draaien met de kantelsensor"
+title: "Turning with Gyro"
 searchterms: "toggle 3Unit"
-lang: "nl"
+lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">Slides:
- <a href="ProgrammingLessons/Draaien met de kantelsensor.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Draaien met de kantelsensor.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 2 Word Block Slides:
+ <a href="ProgrammingLessons/GyroTurning.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/GyroTurning.pdf">PDF</a>
  </li>
+ <li class="ng-binding">SPIKE 3 Word Block Slides:
+ <a href="ProgrammingLessons/SP3GyroTurning.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3GyroTurning.pdf">PDF</a>
+ </li>
+
  </ul>
