@@ -1,17 +1,17 @@
 ---
-title: "My Blocks"
+title: "Mijn blokken"
 searchterms: "toggle 8Unit"
 lang: "nl"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding"> SPIKE 2 Word Block Slides:
- <a href="ProgrammingLessons/MyBlocks.pptx">PPTX</a>,
- <a href="ProgrammingLessons/MyBlocks.pdf">PDF</a>
+ <a href="ProgrammingLessons/MijnBlokken.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/MijnBlokken.pdf">PDF</a>
  </li>
 
  <li class="ng-binding"> SPIKE 3 Word Block Slides:
- <a href="ProgrammingLessons/SP3MyBlocks.pptx">PPTX</a>,
- <a href="ProgrammingLessons/SP3MyBlocks.pdf">PDF</a>
+ <a href="ProgrammingLessons/SP3MijnBlokken.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3MijnBlokken.pdf">PDF</a>
  </li>
  </ul>
