@@ -1,18 +1,18 @@
 ---
-title: "More Accurate Turns"
+title: "Nauwkeurigere bochten"
 searchterms: "toggle 3Unit"
-lang: "en"
+lang: "nl"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">SPIKE 2 Word Block Slides:
- <a href="ProgrammingLessons/AccurateTurning.pptx">PPTX</a>,
- <a href="ProgrammingLessons/AccurateTurning.pdf">PDF</a>
+ <a href="ProgrammingLessons/Nauwkeurigdraaien.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/Nauwkeurigdraaien.pdf">PDF</a>
  </li>
 
  <li class="ng-binding">SPIKE 3 Word Block Slides:
- <a href="ProgrammingLessons/SP3AccurateTurning.pptx">PPTX</a>,
- <a href="ProgrammingLessons/SP3AccurateTurning.pdf">PDF</a>
+ <a href="ProgrammingLessons/SP3Nauwkeurigdraaien.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3Nauwkeurigdraaien.pdf">PDF</a>
  </li>
 
  </ul>

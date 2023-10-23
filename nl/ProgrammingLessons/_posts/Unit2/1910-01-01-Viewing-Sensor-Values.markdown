@@ -1,13 +1,13 @@
 ---
-title: "Viewing Sensor Values"
+title: "Sensorwaarden bekijken"
 searchterms: "toggle 2Unit"
-lang: "en"
+lang: "nl"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">SPIKE 2 and SPIKE 3 Word Block Slides:
- <a href="ProgrammingLessons/ViewingSensorValues.pptx">PPTX</a>,
- <a href="ProgrammingLessons/ViewingSensorValues.pdf">PDF</a>
+ <a href="ProgrammingLessons/SensorWaardenBekijken.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SensorWaardenBekijken.pdf">PDF</a>
  </li>
 
 

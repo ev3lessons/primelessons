@@ -1,13 +1,13 @@
 ---
-title: "Introduction to Hub and Software"
+title: "Inleiding tot hub en software"
 searchterms: "toggle 2Unit"
 lang: "en"
 tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">SPIKE 2 and SPIKE 3 Slides:
- <a href="ProgrammingLessons/IntroductiontoHubandSoftware.pptx">PPTX</a>,
- <a href="ProgrammingLessons/IntroductiontoHubandSoftware.pdf">PDF</a>
+ <a href="ProgrammingLessons/InleidingtotHubensoftware.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/InleidingtotHubensoftware.pdf">PDF</a>
  </li>
 
  </ul>
