@@ -1,5 +1,5 @@
 ---
-title: "SPIKE 2 vs. SPIKE 3 and Downgrading Your Hub"
+title: "SPIKE 2 VS. SPIKE 3 en de hub downgraden"
 searchterms: "toggle 00Unit"
 lang: "nl"
 tag: ProgrammingLesson

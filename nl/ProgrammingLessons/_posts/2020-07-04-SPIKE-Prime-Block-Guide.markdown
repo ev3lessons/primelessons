@@ -1,5 +1,5 @@
 ---
-title: "SPIKE Prime Block Guide"
+title: "SPIKE Prime Blokgids"
 searchterms: "toggle 00Unit"
 lang: "nl"
 tag: ProgrammingLesson
