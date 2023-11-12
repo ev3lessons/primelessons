@@ -1,16 +1,13 @@
 ---
 title: "Proportional Line Follower"
 searchterms: "toggle 6Unit"
-lang: "en"
+lang: "ro"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">SPIKE 2 Slides:
- <a href="PyProgrammingLessons/ProportionalLineFollower.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/ProportionalLineFollower.pdf">PDF</a>
- </li>
+
  <li class="ng-binding">SPIKE 3 Slides:
- <a href="PyProgrammingLessons/SP3ProportionalLineFollowerPython.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/SP3ProportionalLineFollowerPython.pdf">PDF</a>
+ <a href="PyProgrammingLessons/SP3ProportionalLineFollowerPython (rom).pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3ProportionalLineFollowerPython (rom).pdf">PDF</a>
  </li>
  </ul>

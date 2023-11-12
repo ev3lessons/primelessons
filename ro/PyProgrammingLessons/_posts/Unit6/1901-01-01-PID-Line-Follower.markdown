@@ -1,16 +1,13 @@
 ---
 title: "PID Line Follower"
 searchterms: "toggle 6Unit"
-lang: "en"
+lang: "ro"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">SPIKE 2 Python Slides:
- <a href="PyProgrammingLessons/PIDLineFollower.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/PIDLineFollower.pdf">PDF</a>
- </li>
+
  <li class="ng-binding">SPIKE 3 Python Slides:
- <a href="PyProgrammingLessons/SP3PIDLineFollowerPython.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/SP3PIDLineFollowerPython.pdf">PDF</a>
+ <a href="PyProgrammingLessons/SP3PIDLineFollowerPython (rom).pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3PIDLineFollowerPython (rom).pdf">PDF</a>
  </li>
  </ul>

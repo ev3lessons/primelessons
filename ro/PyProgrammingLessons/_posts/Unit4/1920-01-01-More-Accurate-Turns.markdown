@@ -1,17 +1,12 @@
 ---
 title: "More Accurate Turns"
 searchterms: "toggle 4Unit"
-lang: "en"
+lang: "ro"
 tag: ProgrammingLesson
 ---
  <ul>
-
- <li class="ng-binding">SPIKE 2 Python Slides:
- <a href="PyProgrammingLessons/AccurateTurning.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/AccurateTurning.pdf">PDF</a>
- </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
- <a href="PyProgrammingLessons/SP3AccurateTurningPython.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/SP3AccurateTurningPython.pdf">PDF</a>
+ <a href="PyProgrammingLessons/SP3AccurateTurningPython (rom).pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3AccurateTurningPython (rom).pdf">PDF</a>
  </li>
  </ul>

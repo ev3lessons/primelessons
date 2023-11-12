@@ -1,12 +1,12 @@
 ---
 title: "Reliability"
 searchterms: "toggle 6Unit"
-lang: "en"
+lang: "ro"
 tag: ProgrammingLesson
 ---
  <ul>
- <li class="ng-binding">SPIKE 2 and SPIKE 3 Slides:
- <a href="ProgrammingLessons/Reliability.pptx">PPTX</a>,
- <a href="ProgrammingLessons/Reliability.pdf">PDF</a>
+ <li class="ng-binding">SPIKE 3 Slides:
+ <a href="ProgrammingLessons/Reliability (rom).pptx">PPTX</a>,
+ <a href="ProgrammingLessons/Reliability (rom).pdf">PDF</a>
  </li>
  </ul>

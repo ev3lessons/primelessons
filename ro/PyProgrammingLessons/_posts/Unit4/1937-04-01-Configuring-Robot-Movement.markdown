@@ -1,17 +1,13 @@
 ---
 title: "Configuring Robot Movement"
 searchterms: "toggle 4Unit"
-lang: "en"
+lang: "ro"
 tag: ProgrammingLesson
 ---
  <ul>
 
- <li class="ng-binding">SPIKE 2 Python Slides:
- <a href="PyProgrammingLessons/ConfiguringRobotMovement.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/ConfiguringRobotMovement.pdf">PDF</a>
- </li>
  <li class="ng-binding">SPIKE 3 Python Slides:
- <a href="PyProgrammingLessons/SP3ConfiguringRobotMovementPython.pptx">PPTX</a>,
- <a href="PyProgrammingLessons/SP3ConfiguringRobotMovementPython.pdf">PDF</a>
+ <a href="PyProgrammingLessons/SP3ConfiguringRobotMovementPython (rom).pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/SP3ConfiguringRobotMovementPython (rom).pdf">PDF</a>
  </li>
  </ul>
