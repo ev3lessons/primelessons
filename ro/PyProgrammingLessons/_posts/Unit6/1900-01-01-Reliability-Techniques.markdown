@@ -6,7 +6,7 @@ tag: ProgrammingLesson
 ---
  <ul>
  <li class="ng-binding">SPIKE 3 Slides:
- <a href="ProgrammingLessons/Reliability (rom).pptx">PPTX</a>,
- <a href="ProgrammingLessons/Reliability (rom).pdf">PDF</a>
+ <a href="PyProgrammingLessons/Reliability (rom).pptx">PPTX</a>,
+ <a href="PyProgrammingLessons/Reliability (rom).pdf">PDF</a>
  </li>
  </ul>
