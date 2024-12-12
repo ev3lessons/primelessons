@@ -11,7 +11,7 @@ tag: ProgrammingLesson
  </li>
 
  <li class="ng-binding">SPIKE 3 Word Block Slides:
- <a href="ProgrammingLessons/S3PIDLineFollower.pptx">PPTX</a>,
+ <a href="ProgrammingLessons/SP3IDLineFollower.pptx">PPTX</a>,
  <a href="ProgrammingLessons/SP3PIDLineFollower.pdf">PDF</a>
  </li>
  </ul>
